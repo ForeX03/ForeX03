@@ -2,10 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Kofdex)
 
-<!--
-**Kofdex/Kofdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hello
 
-Here are some ideas to get you started:
+<p align='left'>
+
+
+</p>
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
