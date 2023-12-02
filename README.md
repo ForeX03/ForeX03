@@ -1,10 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Kofdex&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Kofdex&show_icons=true">
 
-![](https://komarev.com/ghpvc/?username=Kofdex)
+## Hello 👋
 
-##Hello
-
-<p align='left'>
+<p align='right'>
 
 
 </p>
