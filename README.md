@@ -1,11 +1,11 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kofdex&theme=blue-green">
 
-### Hello 👋
+## Hello 👋
 
 I'm Jakub <br>
 I'm Junior Java/Kotlin developer.
 
-## Time coded since 6th May: 
+### Time coded since 6th May: 
 ![wakatime](https://wakatime.com/badge/user/445f5b8a-7b0b-4e4e-846e-33a420f02dfb.svg)</p>
 
 ## Other languages & frameworks
